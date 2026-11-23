@@ -147,3 +147,5 @@ Copie as pastas de `src` para o `src` do projeto de estoque (o NetBeans pode ped
 Foram feitos testes de ponta a ponta clicando nas telas reais, contra um MariaDB (compatível com
 MySQL): cadastro, edição e exclusão, venda completa com comprovante, estoque insuficiente com
 *rollback*, filtros por período (incluindo os limites do dia) e navegação entre telas.
+Na TelaInicial o botão "vendas" não tem função, levaria para uma tela com o histórico de vendas mas que não foi adicionado
+por falta de prioridade mas que poderia ser adicionado em uma versão mais completa
