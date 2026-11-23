@@ -147,4 +147,3 @@ Copie as pastas de `src` para o `src` do projeto de estoque (o NetBeans pode ped
 Foram feitos testes de ponta a ponta clicando nas telas reais, contra um MariaDB (compatível com
 MySQL): cadastro, edição e exclusão, venda completa com comprovante, estoque insuficiente com
 *rollback*, filtros por período (incluindo os limites do dia) e navegação entre telas.
-**Não foram testados** em um MySQL de produção nem dentro do NetBeans.
