@@ -18,3 +18,5 @@ CREATE TABLE item_venda (
     CONSTRAINT fk_item_venda   FOREIGN KEY (id_venda)   REFERENCES venda(id),
     CONSTRAINT fk_item_produto FOREIGN KEY (id_produto) REFERENCES produto(id)
 );
+
+// Este SQL pode ser encontrado no README
